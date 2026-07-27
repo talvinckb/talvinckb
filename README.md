@@ -20,7 +20,7 @@ Final-year Engineering Student at **EPITA Paris**, specializing in **Computer Gr
 - **[IRGPU — Motion Detection](https://www.talvin-ackbaraly.com/#project-irgpu)** — Real-time motion detection ported to CUDA, **24× speedup** through bottleneck analysis
 - **[MedViz](https://www.talvin-ackbaraly.com/#project-medviz)** — Pulmonary CT scan segmentation, ML-based FVC prediction, and interactive 3D web visualization
 
-More on my [repositories](https://github.com/talvinckb?tab=repositories) page, or the full write-ups on my [portfolio](https://www.talvin-ackbaraly.com/).
+More on my [repositories](https://github.com/talvinckb?tab=repositories) page, or the full write-ups on my [portfolio](https://www.talvin-ackbaraly.com/#projects).
 
 ---
 
