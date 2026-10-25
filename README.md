@@ -10,7 +10,7 @@ Final-year Engineering Student at **EPITA Paris**, specializing in **Computer Gr
 
 - **Education** — M.Eng. at EPITA (2022–2027), academic exchange at UQAC (Canada)
 - **Focus** — Computer Vision & Deep Learning, GPU Computing (CUDA), 3D Rendering & Physical Simulation
-- **Now** — End-of-studies project with the **BnF**, founder of **[Teaso](https://teaso.app)**, and [freelance](https://www.talvin-ackbaraly.com/freelance/) full-stack developer
+- **Now** — End-of-studies project with the **BnF**, founder of **[Teaso](https://teaso.app)**, and freelance full-stack developer
 - **Experience** — Full-stack & DevOps intern at **Studiocanal**, IT consultant intern at **Hitachi Solutions France**
 - **Status** — Looking for a 6-month end-of-studies internship in CV, AI or GPU computing, starting **February 2027**
 
